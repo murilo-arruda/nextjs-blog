@@ -1,4 +1,4 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Blog App using Next.js oficial tutorial [Learn Next.js](https://nextjs.org/learn).
 
 Next and Typescript
 
